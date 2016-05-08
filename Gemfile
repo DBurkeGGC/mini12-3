@@ -26,6 +26,8 @@ gem 'will_paginate'
 
 gem 'bootstrap-will_paginate'
 
+gem 'carrierwave'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
